@@ -324,3 +324,8 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Vagrant + Magento (1.9.2.2) + PHP-7.0.0](https://github.com/roman204/vagrant-magento-php7) - This Vagrantbox will build a Virtual Server for Virtualbox based on Ubuntu 14.04
 * [Vagrant for Magento 2 CE](https://github.com/paliarush/vagrant-magento) - Vagrant project for Magento 2 developers (optimized for Mac, Windows and *nix hosts)
 * [Vagrant Magento 2 Demo](https://github.com/davidalger/m2demo) - A complete demo environment powered by Vagrant using either Digital Ocean or Virtual Box as a provider
+
+### Live Tamplate
+* [Magento Live Template](https://github.com/staempfli/magento2-phpstorm-templates) - PHPStorm Live template preferences for Magento 2 Projects
+
+

@@ -25,6 +25,8 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Events](#events)
 * [Module Repositories & Marketplaces](#module-repositories--marketplaces)
 * [Dev boxes](#dev-boxes)
+* [Live Tamplate](#live-tamplate)
+* [](#)
 
 ## Official Resources
 * [Magento Blog](http://magento.com/blog) - Get the latest in Magento News
@@ -325,7 +327,8 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Vagrant for Magento 2 CE](https://github.com/paliarush/vagrant-magento) - Vagrant project for Magento 2 developers (optimized for Mac, Windows and *nix hosts)
 * [Vagrant Magento 2 Demo](https://github.com/davidalger/m2demo) - A complete demo environment powered by Vagrant using either Digital Ocean or Virtual Box as a provider
 
-### Live Tamplate
+## Live Tamplate
 * [Magento Live Template](https://github.com/staempfli/magento2-phpstorm-templates) - PHPStorm Live template preferences for Magento 2 Projects
 
-
+## 
+* []()

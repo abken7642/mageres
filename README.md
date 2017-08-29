@@ -26,6 +26,7 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 * [Module Repositories & Marketplaces](#module-repositories--marketplaces)
 * [Dev boxes](#dev-boxes)
 * [Live Tamplate](#live-tamplate)
+* [Phpstrom Setting](#phpstrom-setting)
 * [](#)
 
 ## Official Resources
@@ -329,6 +330,9 @@ If you want to contribute, consider updating the `resources.csv` and regeneratin
 
 ## Live Tamplate
 * [Magento Live Template](https://github.com/staempfli/magento2-phpstorm-templates) - PHPStorm Live template preferences for Magento 2 Projects
+
+## Phpstrom Setting
+* [Magento in phpStorm setting](https://medium.com/@randiolegak/setting-up-phpstorm-for-magento-2-8b599807e08d) - PHPStorm setting
 
 ## 
 * []()

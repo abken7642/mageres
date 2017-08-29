@@ -244,4 +244,5 @@ Dev boxes,Vagrant,Vagrant Magento 2 Demo,https://github.com/davidalger/m2demo,A 
 Dev boxes,Vagrant,Vagrant + Magento (1.9.2.2) + PHP-7.0.0,https://github.com/roman204/vagrant-magento-php7,This Vagrantbox will build a Virtual Server for Virtualbox based on Ubuntu 14.04
 Dev boxes,Vagrant,Vagrant for Magento 2 CE,https://github.com/paliarush/vagrant-magento,"Vagrant project for Magento 2 developers (optimized for Mac, Windows and *nix hosts)"
 Live Tamplate,,Magento Live Template,https://github.com/staempfli/magento2-phpstorm-templates,PHPStorm Live template preferences for Magento 2 Projects
+Phpstrom Setting,,Magento in phpStorm setting,https://medium.com/@randiolegak/setting-up-phpstorm-for-magento-2-8b599807e08d,PHPStorm setting
 
